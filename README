@@ -1,0 +1,8 @@
+
+Sort of alternative evilwm, so called tilwm,  to compile it with tcc ONLY!
+
+libs only! 
+  libx11-dev  !!
+  libxext-dev !!
+
+needs make and tcc too 
